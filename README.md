@@ -1,6 +1,6 @@
 # Literacy Rate Mapping, Punjab, Pakistan (2023 Census)
 
-![Literacy rate map of Punjab](Punjab_Literacy_Rate.png.png)
+![Literacy rate map of Punjab](Punjab_Literacy_Rate_2023.png)
 
 ## Overview
 District-level map of literacy rates across Punjab using the 2023 Digital Population & Housing Census, with population shown alongside to compare education levels with demographic exposure.
